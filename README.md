@@ -25,7 +25,7 @@ The dashboard provides a clear view of accident casualties based on different ca
 - Casualties by Road Surface
 - Year-wise and Month-wise Analysis
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 - Microsoft Excel
 - Excel Pivot Tables
@@ -37,13 +37,13 @@ The dashboard provides a clear view of accident casualties based on different ca
 - Excel Formulas
 - Dashboard Design
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to transform raw road accident data into an interactive and easy-to-understand Excel dashboard.
 
 The dashboard helps identify accident trends, casualty patterns, and differences across various road and environmental conditions.
 
-## 📌 Dashboard Features
+## Dashboard Features
 
 - Interactive Year Selection
 - Monthly Filters
@@ -56,16 +56,12 @@ The dashboard helps identify accident trends, casualty patterns, and differences
 - Light Condition Analysis
 - Road Surface Analysis
 
-## 💡 Key Insights
+## Insights
 
 - The dashboard provides a comparison of casualties across different vehicle types.
 - Monthly trends help identify changes in casualties throughout the year.
 - Rural and urban areas can be compared based on total casualties.
 - Road type, lighting conditions, and road surface provide additional perspectives for accident analysis.
-
-## 👨‍💻 Project Type
-
-**Excel Data Analytics & Dashboard Project**
 
 ---
 
